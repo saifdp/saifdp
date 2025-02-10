@@ -9,10 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/saifdp](github.com/saifdp)
 
-- 📝 My new blog about Cookies [heysaif.com/cookies](heysaif.com/cookies)
-
-- 💬 Ask me about **React and Web Development**
-
 - 📫 How to reach me **saifclouds@outlook.com**
 
 - 📄 My website [heysaif.com](heysaif.com)
@@ -20,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/saifdp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saifdp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed-saifuddin-504156173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-saifuddin-504156173" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saifdvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-saifuddin-504156173" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8418276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8418276" height="30" width="40" /></a>
 <a href="https://instagram.com/saif.dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saif.dp" height="30" width="40" /></a>
 </p>
