@@ -1,11 +1,11 @@
 [![saif.jpg](https://i.postimg.cc/CK341Byv/saif.jpg)](https://postimg.cc/06CSXNym)
 
 <h1 align="center">Hi 👋, I'm Md. Saifuddin</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Cloud Devops Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifdp" alt="saifdp" /></a> </p>
 
-- 🌱 I’m currently learning **React and Flutter (Dart)**
+- 🌱 A DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at [github.com/saifdp](github.com/saifdp)
 
